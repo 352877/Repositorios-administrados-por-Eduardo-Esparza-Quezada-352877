@@ -1,14 +1,13 @@
 # Project Title
-Repositorios Administrados por Eduardo Esparza Quezada 352877 a352877uach.mx
+Curso: Programacion para plataformas emergentes Tarea:Repositorios Administrados Alumno: Eduardo Esparza Quezada Matricula:352877 Correo:a352877uach.mx
 ## Getting Started
 
-1- Crea una carpeta llamada video-club en tu computadora.
-2- Inicializa como proyecto de git esta carpeta.
-3- Agrega un archivo llamado readme.md y agrégale la información del proyecto de clase utilizando la plantilla de proyecto de GitHub (adjunta en la tarea).
-4- Crea un repositorio remoto en BitBucket, GitLab y GitHub
-5- Sube cambios a cada repositorio enlazándolos a tu repositorio local.
-6- Por ultimo sube la liga de los repositorios de BitBucket, GitLab y GitHub
-
+1) Crea una carpeta llamada video-club en tu computadora.
+2) Inicializa como proyecto de git esta carpeta.
+3) Agrega un archivo llamado readme.md y agrégale la información del proyecto de clase utilizando la plantilla de proyecto de GitHub (adjunta en la tarea).
+4) Crea un repositorio remoto en BitBucket, GitLab y GitHub
+5) Sube cambios a cada repositorio enlazándolos a tu repositorio local.
+6) Por ultimo sube la liga de los repositorios de BitBucket, GitLab y GitHub
 ### Prerequisites
 
 Registrarse en Github, Bitbebucke y Gitlab, Instalar Git.
